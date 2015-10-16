@@ -1,0 +1,15 @@
+1. What is a checksum?
+
+a digit representing the sum of the correct digits in a piece of stored or transmitted digital data, against which later comparisons can be made to detect errors in the data
+
+2. How are checksums useful in comparing two files?
+
+you can run checksum on both files and compare the results
+
+3. How are checksums useful when installing an OS (operating system)?
+
+You can check to see if the files are altered
+
+4. If two checksums do not match, what might that indicate?
+
+maybe file corruption
