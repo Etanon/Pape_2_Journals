@@ -1,0 +1,14 @@
+/mnt/test/ARP.EXE: data
+/mnt/test/ouchy.dat: data
+/mnt/test/loveletter.virus: UTF-8 Unicode text, with CRLF line terminators
+/mnt/test/snoof.gz: data
+/mnt/test/FTP.EXE: data
+/mnt/test/Pics/mulewheelie.gif: data
+/mnt/test/Pics/Stoppie.gif: data
+/mnt/test/Pics/bike2.jpg: data
+/mnt/test/Pics/matrixs3.jpg: data
+/mnt/test/Pics/C800x600.jpg: data
+/mnt/test/Pics/anno_label2.jpg: ASCII text
+/mnt/test/Pics/bike3.jpg: Sendmail frozen configuration  - version \251\246\032\246\213\246\375\247n\247\340\250R\250\304\2517\251\251\252\034\252\217\253\002\253u\253\351\254\\254\320\255D\255\270\256-\256\241\257\026\257\213\260
+/mnt/test/Pics/d22_ninja.png: data
+/mnt/test/.complaint: data

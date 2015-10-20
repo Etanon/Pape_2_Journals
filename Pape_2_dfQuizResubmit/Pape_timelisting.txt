@@ -1,0 +1,29 @@
+/mnt/test/:
+total 132
+1572865 drwxr-xr-x 4 root root  4096 Sep 22 04:41 ..
+     17 drwxrwxr-x 3 root root  1024 Sep 20 12:41 Docs
+      2 drwxr-xr-x 5 root root  1024 Sep 20 11:48 .
+     12 -rwxrwxr-x 1 root root 19536 Sep 20 11:48 ARP.EXE
+     33 -rw-rw-r-- 1 root root   103 Sep 20 11:48 .complaint
+     13 -rwxrwxr-x 1 root root 37520 Sep 20 11:48 FTP.EXE
+     14 -r-xr-xr-x 1 root root 16335 Sep 20 11:48 loveletter.virus
+     15 -rwxrwxr-x 1 root root 21271 Sep 20 11:48 ouchy.dat
+     16 -rwxrwxr-x 1 root root 12384 Sep 20 11:48 snoof.gz
+     23 drwxrwxr-x 2 root root  1024 Sep 20 11:44 Pics
+     11 drwx------ 2 root root 12288 Sep 20 10:35 lost+found
+
+/mnt/test/Docs:
+total 0
+
+/mnt/test/Pics:
+total 1057
+ 2 drwxr-xr-x 5 root root   1024 Sep 20 11:48 ..
+24 -rw-rw-r-- 1 root root   1368 Sep 20 11:48 anno_label2.jpg
+25 -rwxrwxr-x 1 root root 183654 Sep 20 11:48 bike2.jpg
+26 -rwxrwxr-x 1 root root 187598 Sep 20 11:48 bike3.jpg
+27 -rwxrwxr-x 1 root root  27990 Sep 20 11:48 matrixs3.jpg
+28 -rwxrwxr-x 1 root root 418582 Sep 20 11:48 mulewheelie.gif
+29 -rwxrwxr-x 1 root root  45607 Sep 20 11:45 Stoppie.gif
+31 -rw-rw-r-- 1 root root  66076 Sep 20 11:45 C800x600.jpg
+32 -rw-rw-r-- 1 root root 135802 Sep 20 11:44 d22_ninja.png
+23 drwxrwxr-x 2 root root   1024 Sep 20 11:44 .

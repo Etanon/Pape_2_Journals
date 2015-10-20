@@ -1,0 +1,5 @@
+/mnt/test/Pics/bike2.jpg
+/mnt/test/Pics/matrixs3.jpg
+/mnt/test/Pics/C800x600.jpg
+/mnt/test/Pics/anno_label2.jpg
+/mnt/test/Pics/bike3.jpg

@@ -1,0 +1,24 @@
+ccd3eb88d8f7064bcf1d66083cf8eaf89c290a6b  /usr/share/digitalforensics/images/practical.floppy.dd
+3f7992c0f7a307719be0e2dfa3090ab5b902867b  /usr/share/digitalforensics/images/newfloppy.img
+8d2ee20294308ac3ea46e626899d3fb4298e7b32  /usr/share/digitalforensics/resources/Digital Forensics Quiz 1.pdf
+7998495110c6284a75780f26d08a412d6e10d969  /usr/share/digitalforensics/resources/linuxintro-LEFE-3.78.pdf
+ccd3eb88d8f7064bcf1d66083cf8eaf89c290a6b  /usr/share/digitalforensics/images/practical.floppy.dd
+3f7992c0f7a307719be0e2dfa3090ab5b902867b  /usr/share/digitalforensics/images/newfloppy.img
+8d2ee20294308ac3ea46e626899d3fb4298e7b32  /usr/share/digitalforensics/resources/Digital Forensics Quiz 1.pdf
+7998495110c6284a75780f26d08a412d6e10d969  /usr/share/digitalforensics/resources/linuxintro-LEFE-3.78.pdf
+ccd3eb88d8f7064bcf1d66083cf8eaf89c290a6b  /usr/share/digitalforensics/images/practical.floppy.dd
+3f7992c0f7a307719be0e2dfa3090ab5b902867b  /usr/share/digitalforensics/images/newfloppy.img
+8d2ee20294308ac3ea46e626899d3fb4298e7b32  /usr/share/digitalforensics/resources/Digital Forensics Quiz 1.pdf
+7998495110c6284a75780f26d08a412d6e10d969  /usr/share/digitalforensics/resources/linuxintro-LEFE-3.78.pdf
+eb603acac619c9a77cb6f4d4723a7bc574ee18c2  /usr/share/digitalforensics/caine5.0.iso
+a27d9c5bf69d9e04cc2979bdaaaf196aab8968c7  /mnt/test/ARP.EXE
+29a13ecdce671d672bc171ee8492e77357926613  /mnt/test/ouchy.dat
+c6f3384f44430889417ed85ed0f200acb94fb290  /mnt/test/loveletter.virus
+6275040111474954cce568991551239f0e314c4c  /mnt/test/snoof.gz
+b0a6ee5bd97020839c4c8fe174a369736ddb4e38  /mnt/test/FTP.EXE
+1a16d79a05638cebebc7f0c98d6e2361bcaa60a9  /mnt/test/Pics/mulewheelie.gif
+7fea3201eb5ba2cc511a79b02dd0a4d58d5982df  /mnt/test/Pics/Stoppie.gif
+c28ddb83b2d531c09be475c4b1f97b9bd9ec2b55  /mnt/test/Pics/matrixs3.jpg
+37888c28fa0fc416b236dcd0162c524a0406e70e  /mnt/test/Pics/C800x600.jpg
+6017d8ab11236f10467e75fd30544be0adcf3384  /mnt/test/Pics/anno_label2.jpg
+675bad64f6b23417e22a192fbdc7e484c1befc24  /mnt/test/.complaint
