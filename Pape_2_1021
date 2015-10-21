@@ -1,0 +1,3 @@
+What is data carving? How is it done? How does it relate to what we were doing yesterday?
+Data carving is the act of reconstructing data that has been written over, or corrupted in slack space.
+I don't know how its done exactly, but I know that we might use it on this new disk image.
