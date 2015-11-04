@@ -1,0 +1,7 @@
+File - helps you analyze files, find information about them
+Find - helps you serach through data in a directory
+Grep - finds lines in a file that match the pattern you gave it
+| -  allows different commands to be used
+>> -  outputs what the command did to a specific file.
+Give a specific example of how you might combine the commands for digital forensics?
+you could find a file or folder, then pipe to grep for a specific thing you are looking for (like a pattern) and then output using the >> to a specific file

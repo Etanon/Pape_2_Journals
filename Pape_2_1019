@@ -1,0 +1,16 @@
+﻿What is a disk image?
+A disk image is a bit by bit copy of a hard drive.
+
+What is the command to make a disk image?
+
+What is a disk partition?
+A part of a hard drive set aside for a specific purpose
+
+How many partitions are in a disk image?
+Depends, but usually the number is about 3-4 partitions on any one hard drive.
+
+What difficulties does this pose if any?
+You can only put one partition on a disk image.
+
+What steps must you take to work with this?
+You have to analyze the stopping and starting points of a hard drive to understand exactly where the partitions are.

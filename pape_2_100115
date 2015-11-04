@@ -1,0 +1,8 @@
+What is a file system?
+A system that keeps track of files that allows for easy and organized access
+What are inodes?
+Bit numbering for space on a hard drive
+What are disk paritions?
+Disk paritions are parts of the harddrive that are dedicated to a specific use
+What are jorunaling file systems?
+A journaling file system is like a file system but its temporary in that it's not a part of the main file system.
