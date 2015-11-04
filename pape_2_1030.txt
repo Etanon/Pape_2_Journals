@@ -1,0 +1,8 @@
+Why do we use disk images in digital forensics?
+We use disk images so that we can carefully observe the information without modifying the original hard drive.
+
+What are the steps of creating a blank disk image and then adding files?
+You can use the fallocate command then add files by mounting it
+
+How does the OSI model relate to the use of disk images?
+It could represent the layers in creating a disk image.

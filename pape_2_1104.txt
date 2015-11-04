@@ -1,0 +1,12 @@
+At Rackspace, the most important skills noted for achieving employment were problem-solving and active code development.
+For example, presenters noted that they would be most likely to hire someone who goes home and spends hours working with Linux and networking.
+Does that describe you? Why or why not?
+I like to solve problems but maybe I'm not as passionate about Linux as they however stuff I like I do spend a lot of time thinking about and like to work until I solve the problem
+
+
+Similarly, presenters noted a demand for employees who were good at independent problem solving. Does that describe you? Why or why not?
+Yes, because even though I like working in a group and contributing working alone is fine.
+
+Have you finished your disk image? Why or why not? 
+No, because I was behind on the challenge due to the virtualbox disaster of 2015 for me but I have just finished that challenge and have already made it halfway through the disk image.
+
