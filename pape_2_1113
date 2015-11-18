@@ -1,0 +1,5 @@
+How did you combine multiple files in Linux?
+using the cat command and combining the different parts and sending it to one file
+
+How can you split multiple files in Linux?
+using the "split" command and then you can specify the file and how many parts you want it split into and what file.
