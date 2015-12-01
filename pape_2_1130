@@ -1,0 +1,18 @@
+What type of information does this site provide? Why?
+It provides information on JPEGs and what they are, how they look in hexdump, etc.
+
+How would digital forensics expert use this information?
+Since JPEGs are a common image file type, you can use this information to find JPEGs that have been deleted by criminals
+______________________________________________________________________________________
+What is it for?
+To give you a guide to finding different file types in hexdump
+
+What information do you need to recover:
+an Excel document?
+D0 CF 11 E0 is the start
+
+a Word document?
+D0 CF 11 E0 is the start
+
+a ZIP file? 
+50 4B 03 04 is the start and PK is the header

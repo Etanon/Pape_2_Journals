@@ -1,0 +1,8 @@
+First we search for JPEG imagez. We search for JPEG images by using the command xxd and grep.
+Then we used ibase=16;00052A0|bc to find the line.
+Using the value from that - we use _______ and __________ to convert __________ to a decimal number.
+For example, in the example from yesterday, we found ____________ and converted it to decimal using the command _________________
+Then to find the end of the file, we searched for _______________ using the command ___________________.
+******************************************************
+Using that information, we find the number of bits, using the command _____________
+Then using dd we can reconstruct the file using the command __________________________
