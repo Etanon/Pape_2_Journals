@@ -1,0 +1,6 @@
+what processes are you learning that lead to file recovery?
+I am learning that if I want to recover a file that has been deleted on a disk you can use the file header of the file type to look
+the hexdump mess of zeros and be able to find and recover that which was deleted
+
+And may be extensible to other aspects of problem solving and life?
+I guess you could say that it doesn't matter what the information is what matters is how good you are at actually solving the problem and applying fundamental techniques
