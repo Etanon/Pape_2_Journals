@@ -1,0 +1,16 @@
+What does it mean to generalize a skill?
+To generalize a skill is when you can apply information you learned for one situation to another situation 
+What are five likely questions for the final exam?
+1. What hat should we wear as digital forensicist?
+2. How can I access the hexcode of a file?
+3. How can I find the characteristics of a file?
+4. What is the command to find a header in hexcode?
+5. What is the file header of a JPEG?
+Their answers?
+1. White hat
+2. Using the command xxd
+3. Using commands like "file"
+4. grep
+5. FFD8
+Why ask these questions?
+because i think they cover what we have learned throughout the year
